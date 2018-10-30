@@ -1,6 +1,9 @@
-coffe
+coffee
 toast
 black coffee!
+
+lunch
+sandwich
 
 
 dinner:
