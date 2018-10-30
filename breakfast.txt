@@ -1,10 +1,6 @@
-coffee
-toast
-black coffee!
-
-lunch
+lunch:
 sandwich
 
 
 dinner:
-Pasta!
+Pasta
